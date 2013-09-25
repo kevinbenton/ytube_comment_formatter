@@ -10,12 +10,14 @@ for line in lines:
         if (i % 2) == 0:
             l = len(s)
             while l>0:
-                output = output + s[0:l] + "\n"
+                if s[l-1] != ' ':
+                    output = output + s[0:l] + "\n"
                 l = l - 1
         else:
             l = 1
             while l<len(s):
-                output = output + s[0:l] + "\n"
+                if s[l] != ' ':
+                    output = output + s[0:l] + "\n"
                 l = l + 1
 
 print output
