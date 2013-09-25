@@ -39,7 +39,6 @@ Doesn't even l
 Doesn't even li
 Doesn't even lif
 Doesn't even lift
-
 ```
 
 Alternatively, it can read colon-separated strings from a file:
