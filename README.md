@@ -20,7 +20,6 @@ North Kor
 North Ko
 North K
 North
-North
 Nort
 Nor
 No
@@ -32,11 +31,9 @@ Does
 Doesn
 Doesn'
 Doesn't
-Doesn't
 Doesn't e
 Doesn't ev
 Doesn't eve
-Doesn't even
 Doesn't even
 Doesn't even l
 Doesn't even li
