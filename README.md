@@ -1,4 +1,4 @@
-ytube_comment_formatter
+Youtube Comment Formatter
 =======================
 
 Script to help the struggling youtube commenter format comments into youtube-comment-compatible strings
